@@ -2,7 +2,7 @@
 
 A machine learning based API to predict house prices.
 
-Used as backend for [RentPAY](https://gitlab.com/ganeshtk/rent-app).
+Used as backend for [RentPAY](https://ganeshtk.gitlab.io/rent-app).
 
 ## Description
 
@@ -10,8 +10,8 @@ REST API for predicting predicting house prices in Chennai, India. Dataset provi
 
 ## Usage
 
-API is deployed on [Heroku](https://www.heroku.com) at
-https://rentpay-api.herokuapp.com/api 
+API is deployed on [PythonAnywhere](https://pythonanywhere.com) at
+https://ganeshtk.pythonanywhere.com/api 
 
 ## Live Demo
 I.
